@@ -1,0 +1,12 @@
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\05_FilteringEvents\bin\Debug\05_FilteringEvents.exe.config
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\05_FilteringEvents\bin\Debug\05_FilteringEvents.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\05_FilteringEvents\bin\Debug\05_FilteringEvents.pdb
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\05_FilteringEvents\obj\Debug\05_FilteringEvents.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\05_FilteringEvents\obj\Debug\05_FilteringEvents.pdb
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\05_FilteringEvents\obj\Debug\05_FilteringEvents.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\05_FilteringEvents\bin\Debug\05_FilteringEvents.exe.config
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\05_FilteringEvents\bin\Debug\05_FilteringEvents.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\05_FilteringEvents\bin\Debug\05_FilteringEvents.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\05_FilteringEvents\obj\Debug\05_FilteringEvents.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\05_FilteringEvents\obj\Debug\05_FilteringEvents.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\05_FilteringEvents\obj\Debug\05_FilteringEvents.pdb

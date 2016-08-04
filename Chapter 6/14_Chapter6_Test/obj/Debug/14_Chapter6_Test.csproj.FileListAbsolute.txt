@@ -1,0 +1,16 @@
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\14_Chapter6_Test.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\14_Chapter6_Test.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\Microsoft.Reactive.Testing.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.Core.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.Linq.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\Microsoft.Reactive.Testing.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.Core.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.Linq.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\obj\Debug\14_Chapter6_Test.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\14_Chapter6_Test\obj\Debug\14_Chapter6_Test.pdb

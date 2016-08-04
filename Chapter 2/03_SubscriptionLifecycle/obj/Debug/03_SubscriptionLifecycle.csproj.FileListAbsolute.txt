@@ -1,0 +1,18 @@
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.exe.config
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.pdb
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.csprojResolveAssemblyReference.cache
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.exe.config
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.csprojResolveAssemblyReference.cache
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter2\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.exe.config
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\03_SubscriptionLifecycle\bin\Debug\03_SubscriptionLifecycle.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\03_SubscriptionLifecycle\obj\Debug\03_SubscriptionLifecycle.pdb

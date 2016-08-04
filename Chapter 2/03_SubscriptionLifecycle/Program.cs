@@ -1,0 +1,196 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace _03_SubscriptionLifecycle
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //this is the message observable responsible of producing messages
+            using (var observer = new ConsoleIntegerProducer())
+            //those are the message observer that consume messages
+            using (var consumer1 = observer.Subscribe(new IntegerConsumer(2)))
+            using (var consumer2 = observer.Subscribe(new IntegerConsumer(3)))
+            {
+                using (var consumer3 = observer.Subscribe(new IntegerConsumer(5)))
+                {
+                    //internal lifecycle
+                }
+
+                observer.Wait();
+            }
+
+            Console.WriteLine("END");
+            Console.ReadLine();
+        }
+
+        //Observable able to parse strings from the Console
+        //and route numeric messages to all subscribers
+        public class ConsoleIntegerProducer : IObservable<int>, IDisposable
+        {
+            //the subscriber list
+            private readonly List<IObserver<int>> observerList = new List<IObserver<int>>();
+
+            //the cancellation token source for starting stopping
+            //inner observable working thread
+            private readonly CancellationTokenSource cancellationSource;
+            //the cancellation flag
+            private readonly CancellationToken cancellationToken;
+            //the running task that runs the inner running thread
+            private readonly Task workerTask;
+            public ConsoleIntegerProducer()
+            {
+                cancellationSource = new CancellationTokenSource();
+                cancellationToken = cancellationSource.Token;
+                workerTask = Task.Factory.StartNew(OnInnerWorker, cancellationToken);
+            }
+
+            //add another observer to the subscriber list
+            public IDisposable Subscribe(IObserver<int> observer)
+            {
+                if (observerList.Contains(observer))
+                    throw new ArgumentException("The observer is already subscribed to this observable");
+
+                Console.WriteLine("Subscribing for {0}", observer.GetHashCode());
+                observerList.Add(observer);
+
+                //creates a new subscription for the given observer
+                var subscription = new Subscription<int>(observer);
+                //handle to the subscription lifecycle end event
+                subscription.OnCompleted += OnObserverLifecycleEnd;
+                return subscription;
+            }
+
+            void OnObserverLifecycleEnd(object sender, IObserver<int> e)
+            {
+                var subscription = sender as Subscription<int>;
+                //remove the observer from the internal list within the observable
+                observerList.Remove(e);
+                //remove the handler from the subscription event
+                //once already handled
+                subscription.OnCompleted -= OnObserverLifecycleEnd;
+            }
+
+            //this code executes the observable infinite loop
+            //and routes messages to all observers on the valid
+            //message handler
+            private void OnInnerWorker()
+            {
+                while (!cancellationToken.IsCancellationRequested)
+                {
+                    var input = Console.ReadLine();
+                    int value;
+
+                    foreach (var observer in observerList)
+                        if (string.IsNullOrEmpty(input))
+                            break;
+                        else if (input.Equals("EXIT"))
+                        {
+                            cancellationSource.Cancel();
+                            break;
+                        }
+                        else if (!int.TryParse(input, out value))
+                            observer.OnError(new FormatException("Unable to parse given value"));
+                        else
+                            observer.OnNext(value);
+                }
+                cancellationToken.ThrowIfCancellationRequested();
+            }
+
+            //cancel main task and ack all observers
+            //by sending the OnCompleted message
+            public void Dispose()
+            {
+                if (!cancellationSource.IsCancellationRequested)
+                {
+                    cancellationSource.Cancel();
+                    while (!workerTask.IsCanceled)
+                        Thread.Sleep(100);
+                }
+
+                cancellationSource.Dispose();
+                workerTask.Dispose();
+
+                foreach (var observer in observerList)
+                    observer.OnCompleted();
+            }
+
+            //wait until the main task completes or went cancelled
+            public void Wait()
+            {
+                while (!(workerTask.IsCompleted || workerTask.IsCanceled))
+                    Thread.Sleep(100);
+            }
+        }
+
+        /// <summary>
+        /// Handle observer subscription lifecycle
+        /// </summary>
+        public sealed class Subscription<T> : IDisposable
+        {
+            private readonly IObserver<T> observer;
+            public Subscription(IObserver<T> observer)
+            {
+                this.observer = observer;
+            }
+
+            //the event signalling that the observer has
+            //completed its lifecycle
+            public event EventHandler<IObserver<T>> OnCompleted;
+
+            public void Dispose()
+            {
+                if (OnCompleted != null)
+                    OnCompleted(this, observer);
+
+                observer.OnCompleted();
+            }
+        }
+
+
+        /// <summary>
+        /// Consumes numeric values that divides without rest by a given number
+        /// </summary>
+        public class IntegerConsumer : IObserver<int>
+        {
+            readonly int validDivider;
+            //the costructor asks for a divider
+            public IntegerConsumer(int validDivider)
+            {
+                this.validDivider = validDivider;
+            }
+
+            private bool finished = false;
+            public void OnCompleted()
+            {
+                if (finished)
+                    OnError(new Exception("This consumer already finished it's lifecycle"));
+                else
+                {
+                    finished = true;
+                    Console.WriteLine("{0}: END", GetHashCode());
+                }
+            }
+
+            public void OnError(Exception error)
+            {
+                Console.WriteLine("{0}: {1}", GetHashCode(), error.Message);
+            }
+
+            public void OnNext(int value)
+            {
+                if (finished)
+                    OnError(new Exception("This consumer finished it's lifecycle"));
+
+                //the simple business logic is made by checking divider result
+                else if (value % validDivider == 0)
+                    Console.WriteLine("{0}: {1} divisible by {2}", GetHashCode(), value, validDivider);
+            }
+        }
+    }
+}

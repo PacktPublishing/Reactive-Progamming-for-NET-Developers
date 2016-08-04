@@ -1,0 +1,13 @@
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\12_Chapter6.exe.config
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\12_Chapter6.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\12_Chapter6.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.Core.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.Linq.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.Core.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.Linq.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\obj\Debug\12_Chapter6.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter6\Code\Chapter6\12_Chapter6\obj\Debug\12_Chapter6.pdb

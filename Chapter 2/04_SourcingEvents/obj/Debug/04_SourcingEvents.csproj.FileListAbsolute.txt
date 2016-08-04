@@ -1,0 +1,12 @@
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\04_SourcingEvents\bin\Debug\04_SourcingEvents.exe.config
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\04_SourcingEvents\bin\Debug\04_SourcingEvents.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\04_SourcingEvents\bin\Debug\04_SourcingEvents.pdb
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\04_SourcingEvents\obj\Debug\04_SourcingEvents.csprojResolveAssemblyReference.cache
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\04_SourcingEvents\obj\Debug\04_SourcingEvents.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\04_SourcingEvents\obj\Debug\04_SourcingEvents.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\04_SourcingEvents\bin\Debug\04_SourcingEvents.exe.config
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\04_SourcingEvents\bin\Debug\04_SourcingEvents.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\04_SourcingEvents\bin\Debug\04_SourcingEvents.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\04_SourcingEvents\obj\Debug\04_SourcingEvents.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\04_SourcingEvents\obj\Debug\04_SourcingEvents.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\04_SourcingEvents\obj\Debug\04_SourcingEvents.pdb

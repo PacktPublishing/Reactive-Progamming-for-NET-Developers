@@ -1,0 +1,12 @@
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\06_CorrelatedEvents\bin\Debug\06_CorrelatedEvents.exe.config
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\06_CorrelatedEvents\obj\Debug\06_CorrelatedEvents.csprojResolveAssemblyReference.cache
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\06_CorrelatedEvents\bin\Debug\06_CorrelatedEvents.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\06_CorrelatedEvents\bin\Debug\06_CorrelatedEvents.pdb
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\06_CorrelatedEvents\obj\Debug\06_CorrelatedEvents.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter2\06_CorrelatedEvents\obj\Debug\06_CorrelatedEvents.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\06_CorrelatedEvents\bin\Debug\06_CorrelatedEvents.exe.config
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\06_CorrelatedEvents\bin\Debug\06_CorrelatedEvents.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\06_CorrelatedEvents\bin\Debug\06_CorrelatedEvents.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\06_CorrelatedEvents\obj\Debug\06_CorrelatedEvents.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\06_CorrelatedEvents\obj\Debug\06_CorrelatedEvents.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter02\Code\06_CorrelatedEvents\obj\Debug\06_CorrelatedEvents.pdb

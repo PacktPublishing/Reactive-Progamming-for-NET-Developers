@@ -1,0 +1,44 @@
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Core.dll
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Interfaces.dll
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Linq.dll
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Core.xml
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Interfaces.xml
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Linq.xml
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\obj\Debug\01_Chapter3.csprojResolveAssemblyReference.cache
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+D:\Antonio\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Core.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Linq.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Core.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.Linq.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Code\Chapter3\Chapter3\Chapter3\obj\Debug\01_Chapter3.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\Chapter3.exe.config
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\Chapter3.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\Chapter3.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.Core.dll
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.Interfaces.dll
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.Linq.dll
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.PlatformServices.dll
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.Core.xml
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.Interfaces.xml
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.Linq.xml
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\System.Reactive.PlatformServices.xml
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\obj\Debug\01_Chapter3.csprojResolveAssemblyReference.cache
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\obj\Debug\Chapter3.exe
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\obj\Debug\Chapter3.pdb
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\Chapter3.exe.CodeAnalysisLog.xml
+\\192.168.0.200\Current-Titles\000_Product ID\4954_Reactive Programming for .NET Developers\Chapter03\Code\Chapter3\bin\Debug\Chapter3.exe.lastcodeanalysissucceeded

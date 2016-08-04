@@ -1,0 +1,14 @@
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\01_Chapter5.exe.config
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\obj\Debug\01_Chapter5.csprojResolveAssemblyReference.cache
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\01_Chapter5.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\01_Chapter5.pdb
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.Core.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.Linq.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.Core.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.Linq.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\obj\Debug\01_Chapter5.exe
+C:\Users\AntonioEsposito\Dropbox\Documenti\Packt\Book2\Chapter5\Chapter5\01_Chapter5\obj\Debug\01_Chapter5.pdb
